@@ -1,0 +1,23 @@
+.card-container {
+    border: 1px solid #d5d5d5;
+    border-radius: 4px;
+    width: 300px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.438);
+    margin: 10px;
+    padding: 10px;
+    color: #fff;
+}
+
+#imagem2{
+    position: relative;
+    width: 80%;
+    height: 40%;
+    left: 30px;
+    top: 30px;
+    border-radius: 8px;
+}
+
+h2{
+    text-align: center;
+}
